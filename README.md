@@ -293,19 +293,20 @@ Switch: 00-00-00-00-00-01
 
 ## Proof of Execution
 
-*(Add your screenshots here)*
+<img width="521" height="303" alt="image" src="https://github.com/user-attachments/assets/0234c367-b688-4d5e-8f2f-ff60c5e210ea" />
+
 
 ### Flow Table Screenshot
-![Flow Table](screenshots/flow_table.png)
+<img width="1919" height="1138" alt="terminal 1 ss" src="https://github.com/user-attachments/assets/f10592d7-948a-4cc9-8c01-6ab968f7b2f3" />
+
 
 ### pingAll Result
-![Ping All](screenshots/pingall.png)
+<img width="407" height="97" alt="image" src="https://github.com/user-attachments/assets/ac90174f-2b2a-45a8-ae26-e150a1aa39f4" />
 
-### iperf Throughput
-![iperf](screenshots/iperf.png)
 
 ### Controller Statistics Log
-![Stats Log](screenshots/controller_stats.png)
+<img width="698" height="398" alt="image" src="https://github.com/user-attachments/assets/6a695de2-23d6-4ea6-b7f7-74d70ee9ff7e" />
+
 
 ---
 
